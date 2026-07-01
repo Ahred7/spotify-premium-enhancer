@@ -160,4 +160,4 @@ We push small patches whenever a new Spotify desktop client version breaks compa
 
 ### ❌ The tool says "Spotify not found" — what do I do?
 
-Make sure you have the official Spotify desktop client installed from [spotify.com/download](https://www.spotify.com/download). The tool requires the full Windows app, not the Microsoft Store version (which has permission restrictions). If you're using the Store version,
+Make sure you have the official Spotify desktop client installed from [spotify.com/download](https://www.spotify.com/download). The tool requires the full Windows app, not the Microsoft Store version (which has permission restrictions). If you're using the Store version,‍
